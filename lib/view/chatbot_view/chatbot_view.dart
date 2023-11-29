@@ -27,7 +27,7 @@ class _ChatBotViewState extends State<ChatBotView> {
       appBar: AppBar(
         title: Text('DialogFlow Chatbot'),
       ),
-      body: Container(
+      body: SafeArea(
         child: Column(
           children: [
             Expanded(child: MessagesScreen(messages: messages)),
