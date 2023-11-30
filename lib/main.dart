@@ -14,7 +14,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'ChatBot Demo',
       themeMode: ThemeMode.dark,
-
       theme: ThemeData(
         useMaterial3: true,
       ),
