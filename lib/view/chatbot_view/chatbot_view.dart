@@ -64,8 +64,7 @@ class _ChatBotViewState extends State<ChatBotView> {
         addMessage(Message(text: DialogText(text: [text])), true);
       });
 
-      DetectIntentResponse response = await dialogFlowtter.detectIntent(
-          queryInput: QueryInput(text: TextInput(text: text)));
+      DetectIntentResponse response = await dialogFlowtter.detectIntent(queryInput: QueryInput(text: TextInput(text: text)));
       if (response.message == null) return;
       setState(() {
         addMessage(response.message!);
