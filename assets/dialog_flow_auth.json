@@ -1,10 +1,10 @@
 {
   "type": "service_account",
   "project_id": "tech-brothers-9c143",
-  "private_key_id": "6c5561f8deb06e8466bedda16363969d223c14cd",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCTq804qFX1Yd2l\nAJw/6i9qqfDwlqcFW0h10PMCairR/8wWGyRe3FWTMnvwFaRAg0OebF0BO4+auZhW\n3QVYD2yhiTXD+kFKV3WeFHc9xqamjEnOx42vZmCapwismU3OUVgyB7H/ZditadDA\n1DqvKP8xq/fZAbMI9BqZjMB2K3L+AcklkJmWvgO0P1WQDFqJVsi29Js7zMxz2f4Z\n3L3bYsWeuuxeFpmyFDJ27WiwYs5gufiJhIdt3ascVL+gw4cs/r3yXNy24q1bQnQA\nnHKj6aS6qYBwVv/V7/D1gZsn6tRvfQ6JN6ImAwYDGITGNaMMaWIvJZZKisyxos7k\noq5HOYvxAgMBAAECggEAAJG+/s2XVz+DV+mCsLRkbmgtUkrNELY4t0uQ7vId1tAX\np1YqHmYsZkmMNMbAlVxsMaYqovXp0yeNW3hgAZDoUvnGcp+lCiEAMRXUcoaGNJ+B\n1qw/nZeAHoMvrgqr7smy1K6MPyHTY10ZvZnpMq0DyYXnigykS2U1h7YFNUTBnWe+\n2x/tJeQ38O03cxlEOHlQ1VfKUISSe5DoO2lpBd6YkgsK8IUy5Ad6axXqoTPJIQWZ\nfxoLiOKnh5qDOJfLydQN8blfN410bGe0p8ueUrkO05fhsrdR83GPsMcQ7tBRFqdv\n+2/sFFfU359o7XZ+rtTZ3zdv5SYeAQfi3zfcCX5M4QKBgQDM2tcyNqvYp6iJOG+H\nb0O2+Oj5hEY6ThcjCjUJgPGeFQ6Er1cUUfdbKALfvfG2DVbkhteUsxIx8uE3l4ti\nvAzSTvUtfEBqzbDU6OHUBt/suRf8ODfhxjkJFap0vIFpfF+0fCAeEWK+ednTkqdA\nM2m0Msy0Vg8hzBFIQauTacwi5QKBgQC4ihm38JYNhP/J/xO4WK/Nh2BpV2MbzTfq\nRg3vLDilM5syw4wbb0ZEKW0wAOGPvV8s96hAI/mo27r4ZLoevhtao2wieMVohVUb\nNSv6IWFPU0Hav4h9NAIVdmCP6c7WCjkTl6iN8Zed32q3El5H1hf1hCO+6anIIR7L\nw/9KIKG4HQKBgQCZNrPsomc0y3CJ8OO5b8Y9ez0EIaJEyVMUqfWw/fe4PBd3tYxz\nbjqKuworPW0itCdhFFj4plXddcJsSbO+TNdqFBPbySqEtwKiuursIZgo/OarhYCG\nJDNUUBgE51gDBTqvSoba9jXcMFZynyToJ4vPco8X8aWvqWjjmfoxbtd24QKBgQCS\npawqcBXOSJK8gue450FNovcKv1cTENIOaf1Iw2uAXLJIdP0yEAtWv1T1gL2+7E5l\n/ajGz8/mUDcUjXcaVxiFvrh/7Flz5gDrziVUcJJT52W939cnJ91AEQJLWxHzJcyV\ntT9NDV/fJVw4f3BMxeXkRU3iuO0jDK7cXrTQw33AQQKBgBSxwgfespiIdVV6MpIw\nCa//Nxl6buVsILXXJf0l0GhDjyHeCKdG5Ud8bucnCwIb6YH+SNP4v4H6O0zFMRzH\nJusA6tUTINKKZD5OHRzLCdjoE2YPs7rJwpG9tWxSIeiv7uaHRGjyVUnO++BHBB8j\nvTigHo23N0pIcxGGqpJB+UGZ\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "",
+  "private_key": "-----BEGIN PRIVATE KEY-----\\n-----END PRIVATE KEY-----\n",
   "client_email": "dialogflow@tech-brothers-9c143.iam.gserviceaccount.com",
-  "client_id": "112943905520854974953",
+  "client_id": "12345678990",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
